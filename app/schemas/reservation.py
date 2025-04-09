@@ -10,7 +10,6 @@ class ReservationBase(BaseModel):
 
 
 class ReservationCreate(ReservationBase):
-    # Схема создания брони, дополнительных полей не требуется
     pass
 
 
